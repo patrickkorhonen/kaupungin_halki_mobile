@@ -1,0 +1,31 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Tuomiokirkko",
+            "lat": 60.170278,
+            "lon": 24.952222,
+            "radius": 50,
+            "info": "Tuomiokirkko on Helsingin maamerkki.",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Mannerheimin patsas",
+            "lat": 60.171567,
+            "lon": 24.936283,
+            "radius": 10,
+            "info": "Mannerheimin patsas on Helsingin maamerkki.",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Kahvila Kampela",
+            "lat": 60.2022498,
+            "lon": 25.1621956,
+            "radius": 20000,
+            "info": "Kahvila Kampela on viihtyisä kahvila Helsingin Vuosaaressa, sijoittuen Uutelan ulkoilualueen kauniisiin maisemiin meren äärellä. Se tarjoaa kävijöilleen mahdollisuuden nauttia paitsi herkullisista kahvilatuotteista, myös alueen rauhallisesta luonnosta ja merellisestä ilmapiiristä. Vuonna 2015 se palkittiin Helsingin parhaana talvikahvilana, mikä kertoo sen suuresta suosiosta ja erityisestä tunnelmasta.",
+            "image": "kampela.jpg"
+        }
+    ]
+}

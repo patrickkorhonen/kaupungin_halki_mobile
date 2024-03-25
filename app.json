@@ -1,5 +1,13 @@
 {
   "expo": {
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Salli sovelluksen hyödyntää sijaintiasi"
+        }
+      ]
+    ],
     "name": "kaupunginHalki",
     "slug": "kaupunginHalki",
     "version": "1.0.0",
