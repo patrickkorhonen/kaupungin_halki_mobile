@@ -14,7 +14,7 @@ import PopUp from "./components/PopUp";
 
 const images = {
   1: tuomiokirkko,
-  2: kampela,
+  2: mannerheimin patsas,
   3: kampela,
 };
 
