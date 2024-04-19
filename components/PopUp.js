@@ -15,11 +15,13 @@ export default function PopUp({ props }) {
               <Text className="text-3xl font-semibold">{props.name}</Text>
               <Image className="w-full h-2/6 rounded-full my-6" resizeMode="contain" source={props.image} />                      
               <Text className="text-base mb-6 text-center">{props.info}</Text>
+              <View className="bg-red-500 w-1/3 py-1 rounded-full">
               <Button 
-                title="Sulje"
-                color="#ff150d"
+                title="Sulje" 
+                color="#ffffff"
                 onPress={() => props.set(null)}
               />
+              </View>
             </View>
           </View>
         </Modal>
