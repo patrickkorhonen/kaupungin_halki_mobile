@@ -15,7 +15,6 @@ import PopUp from "./components/PopUp";
 const images = {
   1: tuomiokirkko,
   2: kampela,
-  3: kampela,
 };
 
 const places = JSON.parse(JSON.stringify(locations));
